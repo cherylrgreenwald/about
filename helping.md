@@ -130,7 +130,7 @@ A project night has tables organized by topic (beginners, web, data, hardware, e
 
 ### Video director
 
-Record the presentation nights and put the videos on YouTube. Boston Python can buy the equipment. We'd like to have somebody from with video expertise to help select equipment and establish the process.
+Record the presentation nights and put the videos on YouTube. Boston Python can buy the equipment. We'd like to have somebody with video expertise to help select equipment and establish the process.
 
 ### Name tag master - Ned
 
